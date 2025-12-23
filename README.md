@@ -1,6 +1,6 @@
 # Hi there, I'm Harshith Kamma! 👋
 
-[cite_start]I'm a **Full Stack Developer** and Computer Science student at Arizona State University[cite: 4, 34, 35]. [cite_start]I am passionate about building scalable web and mobile applications that solve real-world problems[cite: 7, 8, 26].
+I'm a **Full Stack Developer** and Computer Science student at Arizona State University. I am passionate about building scalable web and mobile applications that solve real-world problems.
 
 ---
 
@@ -19,31 +19,30 @@
 
 ### 🚀 What I'm working on
 
-* [cite_start]**TapRight**: Architecting a scalable fintech application using React Native and FastAPI to maximize user rewards through real-time transaction analysis[cite: 24, 26].
-* [cite_start]**MARS Platform**: Engineered a centralized web platform using React and Next.js to replace fragmented legacy systems for distributed teams[cite: 5, 7].
-* [cite_start]**Effort Logger**: Built a scalable architecture for enterprise-level project handling with real-time updates and secure authentication[cite: 29, 31, 32].
+* **TapRight**: Architecting a scalable fintech application using React Native and FastAPI to maximize rewards via real-time transaction analysis.
+* **MARS Platform**: Engineered a centralized web platform using React and Next.js to replace fragmented legacy systems.
+* **Effort Logger**: Developed a scalable architecture for enterprise-level project handling with real-time updates and secure authentication.
 
 ---
 
 ### 💼 Professional Experience
 
-* [cite_start]**Full Stack Developer @ Tech Diversified**: Built a high-performance native Android app for workflow automation and real-time task synchronization[cite: 5, 8].
-* [cite_start]**Undergraduate Teaching Assistant @ ASU**: Mentored 800+ students in Software Engineering and Information Assurance, improving project scores by 14%[cite: 11, 13, 15].
-* [cite_start]**Software Developer Intern @ ITC**: Developed a real-time clock-in system and automated inventory analytics, boosting efficiency by 15%[cite: 17, 20, 21].
+* **Full Stack Developer @ Tech Diversified**: Built a high-performance native Android app for workflow automation and real-time task synchronization.
+* **Undergraduate Teaching Assistant @ ASU**: Mentored 800+ students in Software Engineering, improving project scores by 14%.
+* **Software Developer Intern @ ITC**: Developed a real-time clock-in system and automated inventory analytics, boosting efficiency by 15%.
 
 ---
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Harshith's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshithKamma&show_icons=true&theme=dark" alt="Harshith's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithKamma&layout=compact&theme=dark" alt="Top Langs" height="170" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
 
-* [cite_start]**Portfolio:** [harshithkamma.com](https://harshithkamma.com) [cite: 2]
-* [cite_start]**LinkedIn:** [linkedin.com/in/harshithkamma](https://linkedin.com/in/harshithkamma) [cite: 2]
-* [cite_start]**Email:** [harshithk0403@gmail.com](mailto:harshithk0403@gmail.com) [cite: 2]
-* [cite_start]**GitHub:** [github.com/HarshithKamma](https://github.com/HarshithKamma) [cite: 2]
+* **Portfolio:** [harshithkamma.com](https://harshithkamma.com)
+* **LinkedIn:** [linkedin.com/in/harshithkamma](https://linkedin.com/in/harshithkamma)
+* **Email:** [harshithk0403@gmail.com](mailto:harshithk0403@gmail.com)
