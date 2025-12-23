@@ -43,6 +43,6 @@ I'm a **Full Stack Developer** and Computer Science student at Arizona State Uni
 
 ### 📫 Connect with me:
 
-* **Portfolio:** [harshithkamma.com](https://harshithkamma.com)
+* **Portfolio:** [harshithkamma.com](https://harshithkammaportfolio.vercel.app)
 * **LinkedIn:** [linkedin.com/in/harshithkamma](https://linkedin.com/in/harshithkamma)
 * **Email:** [harshithk0403@gmail.com](mailto:harshithk0403@gmail.com)
